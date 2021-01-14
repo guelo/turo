@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Turo Take Home</string>
+    <string name="pizza">Pizza</string>
+    <string name="beer">Beer</string>
+</resources>
